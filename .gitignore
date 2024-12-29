@@ -7,3 +7,9 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+venv/
+.venv/
+venv
+pyvenv.cfg
+env
+vscode/
